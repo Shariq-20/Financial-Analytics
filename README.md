@@ -1,0 +1,2 @@
+This report aims to analyse various out-of-sample performance strategies, where input parameters have been estimated using historical data (over various window sizes). Specifically, it evaluates the performance of the Mean-Variance model against Minimum Variance as well as the naïve portfolio. Comparison will be conducted over three distinct window sizes: 60 months, 120 months, and 180 
+months, providing insights into the effectiveness of each portfolio strategy across different periods.
